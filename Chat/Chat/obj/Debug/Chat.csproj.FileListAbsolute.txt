@@ -1,0 +1,55 @@
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.Chat.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.Dangky.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.QuanLytaikhoan.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\bin\Debug\SimpleTcp.dll
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\bin\Debug\SimpleTcp.xml
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\TCP_SEVER.TCPSEVER.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\TCP.TCPCLIENT.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\Chat\obj\Debug\Chat.DangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.Chat.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.Dangky.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.DangNhap.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.QuanLytaikhoan.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\TCP.TCPCLIENT.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\TCP_SEVER.TCPSEVER.resources
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\bin\Debug\SimpleTcp.dll
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\bin\Debug\SimpleTcp.xml
+C:\Users\Lenovo\OneDrive\Desktop\C#\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\Chat C#\C# 12-12-2021\Chat\Chat\bin\Debug\Chat.exe.config
+E:\Chat C#\C# 12-12-2021\Chat\Chat\bin\Debug\Chat.exe
+E:\Chat C#\C# 12-12-2021\Chat\Chat\bin\Debug\Chat.pdb
+E:\Chat C#\C# 12-12-2021\Chat\Chat\bin\Debug\SimpleTcp.dll
+E:\Chat C#\C# 12-12-2021\Chat\Chat\bin\Debug\SimpleTcp.xml
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.csproj.AssemblyReference.cache
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.csproj.SuggestedBindingRedirects.cache
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.Chat.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.Dangky.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.DangNhap.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.QuanLytaikhoan.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\TCP.TCPCLIENT.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\TCP_SEVER.TCPSEVER.resources
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.csproj.CopyComplete
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.exe
+E:\Chat C#\C# 12-12-2021\Chat\Chat\obj\Debug\Chat.pdb

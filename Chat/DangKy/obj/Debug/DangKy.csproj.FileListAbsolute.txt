@@ -1,0 +1,4 @@
+C:\Users\Lenovo\OneDrive\Desktop\Chat\DangKy\obj\Debug\Chat.Dangky.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\DangKy\obj\Debug\DangKy.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\DangKy\obj\Debug\DangKy.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\DangKy\obj\Debug\DangKy.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\SimpleTcp.dll
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\SimpleTcp.xml
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\obj\Debug\TCP.TCP.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP SEVER.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP SEVER.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP\bin\Debug\TCP SEVER.exe.config

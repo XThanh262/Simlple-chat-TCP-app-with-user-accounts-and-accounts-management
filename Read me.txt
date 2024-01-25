@@ -1,0 +1,4 @@
+1.After logging in, open the "Start" form to activate the TCP server.
+2.Click "Kết nối" in the TCP form, then choose "Refresh" and press "Chọn" to pick the account for messaging.
+	*The "Account Management" form opens only for accounts with "Admin" privileges.
+	*Default Admin credentials: Username: admin, Password: admin.

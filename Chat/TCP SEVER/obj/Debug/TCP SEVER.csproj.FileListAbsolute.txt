@@ -1,0 +1,13 @@
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP_SEVER.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\bin\Debug\TCP SEVER.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\bin\Debug\TCP SEVER.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\bin\Debug\TCP SEVER.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\bin\Debug\SimpleTcp.dll
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\bin\Debug\SimpleTcp.xml
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP_SEVER.TCPSEVER.resources
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.exe
+C:\Users\Lenovo\OneDrive\Desktop\Chat\TCP SEVER\obj\Debug\TCP SEVER.pdb
